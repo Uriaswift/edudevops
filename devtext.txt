@@ -1,1 +1,1 @@
-Example file for merge
+Example file for merge and tags
